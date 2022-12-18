@@ -2,10 +2,10 @@
 
 ![8YLg](https://user-images.githubusercontent.com/115048603/208318063-be2e78a0-a0a8-4d85-803c-f7297bb4a68d.gif)
 
-- 👋 Olá, eu sou o Gabriel, mas pode me chamar de Biel se preferir! Além de estar seguindo a carreira de programador, faço umas lives na twitch como vtuber! || Hi, I'm Gabriel, but if you prefer, you can call me Biel! Even tho I'm learning programming, I also stream on twitch by the name of Biel2KH as a Vtuber!
-- 👀 Sou do Brasil, Rio de janeiro e gosto de pensar que eu sou legal(meus amigos pelo menos dizem que sim) || I'm from Brazil, but I can speak english very well! It's not the best, but I'm improving. My friends thinks I'm cool. 
-- 💻 Sou estudante de Web Dev em um programa da prefeitura do Rio de Janeiro em parceria com o Senac e Resilia Educação. Futuramente pretendo seguir com uma faculdade na área e uma faculdade de artes cênicas para ser dublador! || I'm a Web Dev student!
-- 🎮 Também amo cultura pop, vídeo games, animes, séries e tudo mais! Meu gênero favorito sendo JRPG ou ARPG e meu jogo favorito sendo Kingdom Hearts. || I'm also a gamer! I love pop culture, anime, movies and even more stuff! My fav genre of games are JRPG or ARPG. My fav game being Kingdom Hearts!
+- -👋 Olá, eu sou o Gabriel, mas pode me chamar de Biel se preferir! Além de estar seguindo a carreira de programador, faço umas lives na twitch como vtuber! || Hi, I'm Gabriel, but if you prefer, you can call me Biel! Even tho I'm learning programming, I also stream on twitch by the name of Biel2KH as a Vtuber!
+- -📍 Sou do Brasil, Rio de janeiro e gosto de pensar que eu sou legal(meus amigos pelo menos dizem que sim) || I'm from Brazil, but I can speak english very well! It's not the best, but I'm improving. My friends thinks I'm cool. 
+- -💻 Sou estudante de Web Dev em um programa da prefeitura do Rio de Janeiro em parceria com o Senac e Resilia Educação. Futuramente pretendo seguir com uma faculdade na área e uma faculdade de artes cênicas para ser dublador! || I'm a Web Dev student!
+- -🎮 Também amo cultura pop, vídeo games, animes, séries e tudo mais! Meu gênero favorito sendo JRPG ou ARPG e meu jogo favorito sendo Kingdom Hearts. || I'm also a gamer! I love pop culture, anime, movies and even more stuff! My fav genre of games are JRPG or ARPG. My fav game being Kingdom Hearts!
 
 
 
